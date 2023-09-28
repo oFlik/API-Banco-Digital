@@ -13,7 +13,7 @@ Implementada como desafio para o curso de Desenvolvimento de Software com foco e
 
 ---
 ### Funcionalidades
->/get/contas <br>
+#### `/get/contas <br>`
 
 Lista todas as contas armazenadas no sistema, com informações tais como:
 * Número indicador da conta
@@ -26,7 +26,7 @@ Para acessar estas informações é necessário informar a senha do banco via qu
 
 ![](./imgs/listarContas.png)
 
->/post/contas
+#### `/post/contas`
 
 Cria uma nova conta de usuário cujo ID é único.<br>
 Conta com validações para garantir que o CPF e email do usuário é único.<br>
