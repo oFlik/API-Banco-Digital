@@ -26,6 +26,7 @@ Para acessar estas informações é necessário informar a senha do banco via qu
 
 ![](./imgs/listarContas.png)
 
+---
 #### `/post/contas`
 
 Cria uma nova conta de usuário cujo ID é único.<br>
@@ -40,5 +41,6 @@ Para que a requisição seja completa os campos a seguir são obrigatórios:
 
 ![](imgs/cadastrarConta.png)
 
+---
  #### `/put/contas/:numeroConta/usuario`
 
