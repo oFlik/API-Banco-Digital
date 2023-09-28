@@ -1,7 +1,7 @@
 # API REST para um Banco Digital
 
 ### Descrição Geral
-Este projeto constiste em uma API para uso em um sistema de Banco Digital. <br>
+Este projeto consiste em uma API para uso em um sistema de Banco Digital. <br>
 Implementada como desafio para o curso de Desenvolvimento de Software com foco em Back-End da Cubos Academy.
 
 ---
