@@ -44,3 +44,18 @@ Para que a requisição seja completa os campos a seguir são obrigatórios:
 ---
  #### `/put/contas/:numeroConta/usuario`
 
+Atualiza os dados de usuário de uma conta bancária.<br>
+Conta com validações para garantir que o CPF e email do usuário é único.<br>
+Para que a requisição seja completa os campos a seguir são obrigatórios:
+* Nome
+* CPF
+* Data de Nascimento
+* Telefone
+* Email
+* Senha
+  
+Além disso, o número da conta deve ser passado como parâmetro de rota.
+
+![](imgs/atualizarConta.png)
+
+---
