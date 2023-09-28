@@ -13,7 +13,7 @@ Implementada como desafio para o curso de Desenvolvimento de Software com foco e
 
 ---
 ### Funcionalidades
-#### `/get/contas <br>`
+#### `/get/contas`
 
 Lista todas as contas armazenadas no sistema, com informações tais como:
 * Número indicador da conta
